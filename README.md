@@ -8,3 +8,10 @@ It means both subscriber and publisher are connecting to the same AMPQ broker. T
 
 c. Running RabbitMQ
 ![alt text](rabbitmq.png)
+
+d. Console
+Publisher terminal when running the app
+![alt text](terminal-publisher.png)
+
+Subscriber terminal when publishes message
+![alt text](terminal-subs.png)
